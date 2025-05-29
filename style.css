@@ -1,6 +1,18 @@
-.logotipo{
+body{
+background-color: rgb(76, 28, 121);
+color: blanchedalmond;
 
 }
 main{
-    background-color: blueviolet;
+    background-color: darkgoldenrod;
+    height: 1000px;
+
+}
+.logotipo{
+
+    height: 300px;
+}
+footer{
+    background-color: rgb(32, 6, 145);
+    
 }
