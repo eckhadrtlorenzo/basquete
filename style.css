@@ -1,18 +1,14 @@
 body{
-background-color: rgb(76, 28, 121);
+background-color: rgb(30, 156, 90);
 color: blanchedalmond;
-
 }
-main{
-    background-color: darkgoldenrod;
-    height: 1000px;
 
+
+main{
+background-color: #1e9f5cff;
+color: blanchedalmond;
 }
 .logotipo{
-
     height: 300px;
-}
-footer{
-    background-color: rgb(32, 6, 145);
-    
+   
 }
